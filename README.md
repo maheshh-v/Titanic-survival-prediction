@@ -1,11 +1,11 @@
-# 🚢 Titanic Survival Prediction — End-to-End ML Project with Flask API
+#  Titanic Survival Prediction — End-to-End ML Project with Flask API
 
 Hello! I'm **Mahesh**, a B.Tech Computer Science (AI) student.  
 This project is part of my **internship and job readiness portfolio**, built to demonstrate my understanding of machine learning, data processing, model evaluation, and deployment.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project predicts whether a passenger survived the Titanic disaster using a machine learning classification model.  
 It includes everything from **EDA, feature engineering, model training**, and **API deployment** using **Flask** — all built from scratch.
@@ -15,7 +15,7 @@ It includes everything from **EDA, feature engineering, model training**, and **
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Real-world data preprocessing (nulls, encoding, new features)
 - Model building with **Scikit-learn** (Pipeline + Random Forest)
@@ -72,7 +72,7 @@ Pipeline([
     ('scaler', StandardScaler()),
     ('model', RandomForestClassifier())
 ])
-
+```
 *   Built using `Pipeline()` to combine preprocessing and training
     
 *   Tuned with basic hyperparameters
